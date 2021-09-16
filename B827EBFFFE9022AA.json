@@ -1,0 +1,19 @@
+{
+    "gateway_conf" : {
+         "gateway_ID" : "B827EBFFFE9022AA",
+         "servers" : [
+              {
+                   "server_address" : "router.eu.thethings.network",
+                   "serv_port_up" : 1700,
+                   "serv_port_down" : 1700,
+                   "serv_enabled" : true
+              }
+         ],
+         
+         "ref_latitude" : 41.89034790775357, 
+         "ref_longitude" : 12.533919962948318,
+         "ref_altitude" : 183,
+         "contact_email" : "karpakazi@gmail.com",
+         "description" : "LoraGW Test"
+    }
+}
